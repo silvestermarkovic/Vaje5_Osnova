@@ -36,15 +36,17 @@ namespace Naloga1
             //izpisejo naj se polja naziv, drzava,kraj in dolzina kraja (length) 
             
 
+            
             //TODO 1.5.: prikazite vse dokumenta kupcev, ki imajo država različna od Italija
             //razvrstite po znesku naracajoce
             
 
-            //TODO 1.6. naredite poizvedvo, ki bo vrnila seštevek po kupcih
+            //TODO 1.6. naredite poizvedvo, ki bo vrnila seštevek po kupcih (brez Join)
             //izpiše naj ID_kupca, StRacunov (count), ZnesekRacunov
             
 
-            //TODO 1.7: navodila sledijo
+            //TODO 1.7: z uporabo join in group
+            //izpišite državo, število računov, seštek računov po državah, razvrščeno po seštevku računov
 
         }
 
