@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga1", "Naloga1\Naloga1.csproj", "{F98C997B-1D0A-47C1-AE55-5AE494F44B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga2", "Naloga2\Naloga2.csproj", "{55CA6CD6-1E5C-48DE-9588-87870B62D411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga3", "Naloga3\Naloga3.csproj", "{2E79392B-1F63-43AE-9DF2-D28885270EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98C997B-1D0A-47C1-AE55-5AE494F44B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98C997B-1D0A-47C1-AE55-5AE494F44B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98C997B-1D0A-47C1-AE55-5AE494F44B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98C997B-1D0A-47C1-AE55-5AE494F44B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CA6CD6-1E5C-48DE-9588-87870B62D411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CA6CD6-1E5C-48DE-9588-87870B62D411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CA6CD6-1E5C-48DE-9588-87870B62D411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CA6CD6-1E5C-48DE-9588-87870B62D411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E79392B-1F63-43AE-9DF2-D28885270EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E79392B-1F63-43AE-9DF2-D28885270EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E79392B-1F63-43AE-9DF2-D28885270EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E79392B-1F63-43AE-9DF2-D28885270EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F55E75D-6A86-4836-B5C2-F99CA7C33483}
+	EndGlobalSection
+EndGlobal
